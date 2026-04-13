@@ -1,6 +1,8 @@
 # fihh
 practially unusable terraria fishing automation script only for linux and x11 desktop environments 
 
+note: if this script fries your cpu, starts a communist revolution, or does anything it was not intented to do, i am not responseable. use this at your own risk.
+
 dependacies
 
 -evdev
