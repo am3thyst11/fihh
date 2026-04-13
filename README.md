@@ -9,6 +9,7 @@ dependacies
 -pillow
 
 how to use (you already fucked up by deciding to use this)
+.set the use item button for controller controls to A
 .use penus.py to find these coordinates
 .set ax, ay to the coordinates you want your mouse to be at (this doesnt matter because im faking controller input, i just dont care enough to remove this, another reminder this script is unuseable)
 .set bx1, by1 to the coordinates of the top left corner of the area your fishing bobber thing will be
