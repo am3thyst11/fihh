@@ -70,13 +70,13 @@ def images_equal(path1, path2):
     except EOFError:
         return False 
     
-region = (bx1, by1, bx3, by3)
+regioon = (bx1, by1, bx3, by3)
 f1 = '/home/cheese/Documents/fihh/ss1.png'
 f2 = '/home/cheese/Documents/fihh/ss2.png'
 
 while True:
-    p.screenshot(region=region).save(f1)
-    p.screenshot(region=region).save(f2)
+    p.screenshot(region=regioon).save(f1)
+    p.screenshot(region=regioon).save(f2)
     if images_equal(f1, f2):
         print("no fihh :(")
     else:
