@@ -27,6 +27,8 @@ how to use (you already fucked up by deciding to use this)
 
 .set bx2, by2 to the coordinates of the bottom right corner of the area your fishing bobber thing will be
 
+.set f1 and f2 to the correct file path
+
 .run the script probably, idfk
 
 you will immediately notice upon starting the script that the script is the most inefficent piece of shit you have ever saw, and it is barely catching fish
